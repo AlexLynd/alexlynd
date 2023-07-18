@@ -9,11 +9,10 @@ I create educational tools & content with a focus on signals intelligence & micr
 ---
 **Content**
 - 💻 Ethical Hacking Tutorials @ [Hak5](https://youtube.com/Hak5)
-- 🗞️ InfoSec News @ [SecurityFWD]()
-- 🛠️ Hardware Projects @ [AlexLynd](https://youtube.com/AlexLynd)
+- 🛠️ Hardware Projects @ [LyndLabs](https://youtube.com/@LyndLabs)
 
 **Projects**
-- 🐈‍⬛ Co-Founder of [HakCat](https://hakcat.com)
-- 😼 Creator of the [Nugget]()
-- 🕵️ [CreepDetector](https://github.com/alexlynd/CreepDetector): Detect Stalkers w/ WarDriving
+- 😼 Creator of the [Nugget](https://usbnugget.com)
+- 🕵️ [CreepDetector](https://creepdetector.wtf): Detect Stalkers w/ WarDriving
+- 🚗 [DNS Driveby](https://dnsdriveby.com) Stealthy GPS Tracking through Open WiFi
 - 🌱 [Pylar](https://github.com/pylar-io): Smart-home Compost System
